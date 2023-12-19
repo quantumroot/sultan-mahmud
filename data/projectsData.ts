@@ -1,14 +1,21 @@
 const projectsData = [
   {
-    title: 'Shuhashini (Who smiles beautifully, It is a metaphor, not a real person)',
-    description: `Does love's contemplation only have to revolve around the person we love? Or can love's thoughts inspire a person to become philosophical, to think? Can it teach a person to question? To challenge societal norms? Can it make one ponder about the existence of this universe, the reason for existence, about the Creator? Can love's thoughts not turn a person into a warrior of justice? Can love's contemplation not empower one to stand firm against the injustices of society?
-
-    Must poems of love always be in intricate language? Can't there be love poems in the language of our farmers and laborers? Can't there be poetry in the scent of the soil of our motherland, Bengal? Does reading poetry always have to be a heavy experience? In a casual evening tea gathering, can there not be simple poems just for a laugh, just for love?
-    
-    The poems in your book attempt to address these questions, taking on a thought-provoking journey. Yet, in this busy city life, if these poems can make you smile a bit and think a bit, then the poet's work is accomplished
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.rokomari.com/book/332506',
+    title: 'প্রকল্প এক',
+    description: `সাধারণত বাংলাদেশের প্রেক্ষাপটে চিকিৎসা বিজ্ঞানের বর্তমান শাখা অর্থোপেডিক্স, নিউরোলজি, ফিজিওথেরাপিতে
+    কোন সমস্যার(উদাহরনস্বরূপ, কাঁধে ব্যথা) শুধুমাত্র গাঠনিক সমস্যার কথায় চিন্তা করা হয় এবং তদানুযায়ী
+    চিকিৎসা দেয়া হয়। সেবা গ্রহণকারী তাতে আরাম বোধ করেন ঠিকই কিন্তু কিছুদিন পরে সমস্যা ফিরে আসে। এভাবে
+    চলতে থাকলে পরবর্তীতে সেন্ট্রাল নার্ভাস সিস্টেমে পরিবর্তন আসে মোটর প্যাটার্ন পরিবর্তিত হয়ে যায় এবং সমস্যা
+    জটিলরূপ ধারণ করে। এর সমাধান হলো ফাংশনাল দিকটাও সমান গুরুত্ব দেওয়া।`,
+    imgSrc: '/static/images/project1.png',
+    href: 'https://www.facebook.com/profile.php?id=100008307650498',
+  },
+  {
+    title: 'প্রকল্প দুই',
+    description: `এরকম কারণ দর্শানো স্ট্রোক বা প্যারালাইসিস ভূগা মানুষদের জন্য জরুরী এবং তাদের ক্ষেত্রে নতুন নিউরাল
+    পাথওয়ে তৈরি করা বেশিরভাগ ক্ষেত্রেই বেশ কঠিনসাধ্য। এসব ক্ষেত্রে সঠিক মাত্রার মোটর কন্ট্রোল থিওরির যথাযথ
+    প্রয়োগ সমস্যাগ্রস্ত মানুষদের সর্বোচ্চ স্বাভাবিক জীবনে ফিরিয়ে আনা।`,
+    imgSrc: '/static/images/project2.png',
+    href: 'https://www.facebook.com/profile.php?id=100008307650498',
   },
 ]
 
